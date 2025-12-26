@@ -6,5 +6,3 @@ Tenho familiaridade com Flutter, HTML5, CSS e JavaScript.
 
 Sempre disposto a aprender coisas novas!
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaRauber&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
